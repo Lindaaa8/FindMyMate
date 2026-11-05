@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+backend/*.db
+backend/uploads/
+frontend/node_modules/
+.DS_Store
+.secret_key
+backend/models/*.onnx
+backend/models/*.part
+backend/.env
